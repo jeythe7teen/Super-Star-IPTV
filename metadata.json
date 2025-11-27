@@ -1,0 +1,5 @@
+{
+  "name": "Super Star IPTV",
+  "description": "A modern, 10-foot UI designed IPTV player for Android TV and large screens. Features HLS streaming, M3U playlist parsing, and AI-powered channel discovery.",
+  "requestFramePermissions": []
+}
